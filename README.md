@@ -5,6 +5,7 @@ Sensor de partículas PM2.5
 ![image](https://user-images.githubusercontent.com/60490415/228080636-dd531f15-c2d5-4a11-9070-550ed89ec8f1.png)
 
 (PM2.5 se refiere a partículas que tienen un diámetro de 2,5 micrones o menos)
+
 Deberá conectar esto a un microcontrolador con entrada UART
 El precio del sensor ronnda entre 30 a 40 dlls 
 
