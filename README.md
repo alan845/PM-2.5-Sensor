@@ -4,6 +4,7 @@ Sensor de partículas PM2.5
 
 ![image](https://user-images.githubusercontent.com/60490415/228080277-42babe14-5216-45c5-bd3f-fb95557b519a.png)
 
+(PM2.5 se refiere a partículas que tienen un diámetro de 2,5 micrones o menos)
 
 Este sensor utiliza dispersión láser para irradiar partículas suspendidas en el aire, 
 luego recolecta la luz dispersa para obtener la curva de cambio de luz dispersa con el tiempo.
