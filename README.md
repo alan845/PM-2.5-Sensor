@@ -48,3 +48,6 @@ Dimensiones del módulo del sensor: 50 × 38 × 21 mm
 
 Peso (incl. cable y adaptador): 42,2 g
 
+![image](https://user-images.githubusercontent.com/60490415/228338487-640026d1-5df9-4d67-bdce-73e8f4175273.png)
+
+
