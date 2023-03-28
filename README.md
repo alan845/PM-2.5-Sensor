@@ -8,6 +8,8 @@ Sensor de partículas PM2.5
 
 Deberá conectar esto a un microcontrolador con entrada UART
 
+Tambien se pude conectar a un convertidor USB-Serial y analizar los datos en una computadora 
+
 El precio del sensor ronnda entre 30 a 40 dlls 
 
 Le proporcionamos la caja del sensor, así como el cable y una placa de conexión de 0,1"/2,54 mm para que pueda cablearlo fácilmente. Solo necesita alimentación más un pin de datos (para el UART TX). La alimentación es de 5 V, la lógica es de 3.3 V.
