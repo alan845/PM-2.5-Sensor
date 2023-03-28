@@ -24,18 +24,27 @@ El microprocesador calcula el diámetro de partícula equivalente y el número d
 # Detalles técnicos
 
 Rango de medición: 0,3~1,0; 1,0~2,5; 2,5~10 μm
+
 Rango efectivo: 0~500 μ g/m³
+
 Alcance Máximo: * ≥1000 μ g/m³
 Resolución: 1 μg/m³
-Volumen estándar: 0.1L
-Fuente de alimentación de CC: Tipo: 5,0 / Min: 4,5 / Max: 5,5 V
-Corriente activa: ≤100 mA
-Corriente en espera: ≤200 μ A
-Rango de temperatura de trabajo: -10~+60 ℃
-Rango de humedad de trabajo: 0 ~ 99%
-Rango de temperatura de almacenamiento: -40~+80 ℃
-Dimensiones del módulo del sensor: 50 × 38 × 21 mm
-Peso (incl. cable y adaptador): 42,2 g
-A partir del 1 de marzo, enviamos con encabezados directos en el desglose de JST
 
- Manual PM5003
+Volumen estándar: 0.1L
+
+Fuente de alimentación de CC: Tipo: 5,0 / Min: 4,5 / Max: 5,5 V
+
+Corriente activa: ≤100 mA
+
+Corriente en espera: ≤200 μ A
+
+Rango de temperatura de trabajo: -10~+60 ℃
+
+Rango de humedad de trabajo: 0 ~ 99%
+
+Rango de temperatura de almacenamiento: -40~+80 ℃
+
+Dimensiones del módulo del sensor: 50 × 38 × 21 mm
+
+Peso (incl. cable y adaptador): 42,2 g
+
