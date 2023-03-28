@@ -21,7 +21,8 @@ El microprocesador calcula el diámetro de partícula equivalente y el número d
 
 ![image](https://user-images.githubusercontent.com/60490415/228080277-42babe14-5216-45c5-bd3f-fb95557b519a.png)
 
-Detalles técnicos
+#Detalles técnicos
+
 Rango de medición: 0,3~1,0; 1,0~2,5; 2,5~10 μm
 Rango efectivo: 0~500 μ g/m³
 Alcance Máximo: * ≥1000 μ g/m³
